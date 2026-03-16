@@ -50,7 +50,7 @@ vnoremap < <gv
 inoremap {<Enter> {}<Left><CR><ESC><S-o>
 inoremap [<Enter> []<Left><CR><ESC><S-o>
 inoremap (<Enter> ()<Left><CR><ESC><S-o>
-set clipboard=unnamedpuls
+set clipboard=unnamedplus
 " LaTeX用の＄
 inoremap $<Tab> $$<Left>
 
