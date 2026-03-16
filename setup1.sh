@@ -16,7 +16,8 @@ sudo apt install -y \
   vim-gtk3 git curl \
   openssh-client openssh-server \
   fcitx5 fcitx5-mozc fcitx5-config-qt\
-  gnome-tweaks mozc-utils-gui
+  gnome-tweaks mozc-utils-gui\
+  gnome-shell-extensions
 
 # 2) vim + NeoBundle
 mkdir -p "$HOME/.vim/bundle"
