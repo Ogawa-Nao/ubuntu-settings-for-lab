@@ -20,3 +20,18 @@ If you get stuck, I'll do my best to help!:D
 You can install Google Chrome, Visual Studio Code, gcc (with LAPACK and BLAS), and Anaconda from this installer.
 This Anaconda installer was available at March 16, 2026.
 If you prefer another one, you can simply delete or modify those lines.
+
+---
+## How to use
+To run these scripts, you just open your terminal and run the following commands:
+```bash
+./setup1.sh
+./setup2.sh
+```
+**IMPORTANT**
+
+These scripts require **sudo privileges** to install packages and modify system settings.
+You will be prompted to enter your password at first.
+When you type your password, **nothing will appear on the screen** (no characters, no dots).
+This is a security feature of the Linux terminal.
+Simply type your password and press **Enter**.
